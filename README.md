@@ -1,18 +1,18 @@
-# 🌊 Flood Monitoring System using ESP8266
+# Flood Monitoring System using ESP8266
 
-## 📌 Overview
+## Overview
 
 A smart flood monitoring system using ESP8266 and an ultrasonic sensor to detect rising water levels in real-time. The system improves accuracy by taking multiple readings and calculating their mean value to reduce noise caused by water waves.
 
 ---
 
-## 🚨 Problem Statement
+## Problem Statement
 
 Floods can cause severe damage to life and property. Early detection of rising water levels is crucial. This project provides a low-cost and reliable solution for real-time flood monitoring and alert alerts.
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 * Ultrasonic sensor measures distance between sensor and water surface
 * A floating thermocol object stabilizes readings and reduces wave disturbance
@@ -26,7 +26,7 @@ Floods can cause severe damage to life and property. Early detection of rising w
 
 ---
 
-## ✨ Features
+## Features
 
 * Accurate measurement using mean of 50 readings
 * Real-time monitoring
@@ -37,7 +37,7 @@ Floods can cause severe damage to life and property. Early detection of rising w
 
 ---
 
-## 🔌 Components Used
+## Components Used
 
 * ESP8266 (NodeMCU)
 * Ultrasonic Sensor (HC-SR04)
@@ -45,20 +45,20 @@ Floods can cause severe damage to life and property. Early detection of rising w
 * Buzzer
 * LEDs
 * Thermocol (floating object)
-* Jumper wires & breadboard
+* Jumper wires and breadboard
 
 ---
 
-## 📐 Working Logic
+## Working Logic
 
 * Distance increases as water level rises
 * Mean of 50 readings avoids false alerts due to waves
 * Threshold set around 3 cm
-* If mean ≤ threshold → ALERT triggered
+* If mean ≤ threshold → Alert triggered
 
 ---
 
-## 📊 Applications
+## Applications
 
 * Flood monitoring
 * River water level monitoring
@@ -67,7 +67,7 @@ Floods can cause severe damage to life and property. Early detection of rising w
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 * SMS/Email alerts
 * Solar-powered system
@@ -76,12 +76,13 @@ Floods can cause severe damage to life and property. Early detection of rising w
 
 ---
 
-## 👨‍💻 Author
 
-**Nishchay Agrawal**
+## Author
+
+Nishchay Agrawal
 
 ---
 
-## 📜 License
+## License
 
 This project is open-source and free to use for educational purposes.
