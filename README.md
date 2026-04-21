@@ -76,20 +76,6 @@ Floods can cause severe damage to life and property. Early detection of rising w
 
 ---
 
-## 📸 Project Images
-
-*Add your project images here*
-
-## 🎥 Demo Video
-
-*Add your demo video link here*
-
-## 🔧 Circuit Diagram
-
-*Add your circuit diagram here*
-
----
-
 ## 👨‍💻 Author
 
 **Nishchay Agrawal**
